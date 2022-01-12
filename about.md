@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Observability
+Observability for Developers
 
 ### More Information
 
@@ -12,4 +12,4 @@ Our mission is to establish a team and deliver monitoring / application observab
 
 ### Contact us
 
-[email@domain.com](mailto:Barrington.Hew-Sang@telus.com)
+[Barrington.Hew-Sang@telus.com](mailto:Barrington.Hew-Sang@telus.com)
