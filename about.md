@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Observability
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Our mission is to establish a team and deliver monitoring / application observability capabilities for developers consumption. Enabling and empowering them to continuously deliver value through stable and resilient applications.
 
-### Contact me
+### Contact us
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:Barrington.Hew-Sang@telus.com)
